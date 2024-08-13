@@ -1,5 +1,5 @@
 var fleck = require('fleck');
-const Blueprint = require('layer-gen/lib/models/blueprint');
+const Blueprint = require('layer-gen-blueprint');
 
 var dasherize = fleck.dasherize;
 var classify  = fleck.upperCamelize;

@@ -19,6 +19,6 @@
     "fleck": "^0.5.1"
   },
   "peerDependencies": {
-    "layer-gen": "*"
+    "layer-gen-blueprint": "*"
   }
 }
